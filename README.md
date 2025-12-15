@@ -1,0 +1,2 @@
+# Reproducing-and-extension-result-of-universal-resilience-pattern-in-complex-network
+This project investigates network resilience within the framework of universal resilience patterns in complex networks. The ecological and gene regulatory dynamical equations introduced in the original study are reproduced. the framework is extended by a nonlinear bistable node dynamics and an additional targeted node removal perturbation
